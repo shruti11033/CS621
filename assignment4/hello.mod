@@ -1,0 +1,2 @@
+/home/shruti/hello.o
+
