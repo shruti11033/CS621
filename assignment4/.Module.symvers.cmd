@@ -1,0 +1,1 @@
+cmd_/home/shruti/CS621/assignment4/Module.symvers := sed 's/\.ko$$/\.o/' /home/shruti/CS621/assignment4/modules.order | scripts/mod/modpost -m -a  -o /home/shruti/CS621/assignment4/Module.symvers -e -i Module.symvers   -T -

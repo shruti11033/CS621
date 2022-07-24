@@ -1,0 +1,1 @@
+cmd_/home/shruti/CS621/assignment4/mymodule.ko := ld -r -m elf_x86_64 --build-id=sha1  -T scripts/module.lds -o /home/shruti/CS621/assignment4/mymodule.ko /home/shruti/CS621/assignment4/mymodule.o /home/shruti/CS621/assignment4/mymodule.mod.o;  true
