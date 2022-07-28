@@ -1,0 +1,1 @@
+cmd_/home/shruti/CS621/assignment5/ticket.ko := ld -r -m elf_x86_64 --build-id=sha1  -T scripts/module.lds -o /home/shruti/CS621/assignment5/ticket.ko /home/shruti/CS621/assignment5/ticket.o /home/shruti/CS621/assignment5/ticket.mod.o;  true
